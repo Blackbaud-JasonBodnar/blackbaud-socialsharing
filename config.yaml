@@ -1,0 +1,10 @@
+server:
+    applicationConnectors:
+      - type: http
+        port: 9000
+    adminConnectors:
+      - type: http
+        port: 9001
+
+gigyaAPIKey: 3_LW_l9iIp5HunznauqChJY2OiYLt1d-dxijg2dy8TWIn30X7boz2aUUCUeAi71ZxV
+gigyaSecretKey: qvBOUbzL3p2bxayLwWes7p1a4/U687E8qDrz76tE4Ig=
